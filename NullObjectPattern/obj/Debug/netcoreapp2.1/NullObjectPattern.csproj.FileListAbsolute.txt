@@ -1,0 +1,11 @@
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\NullObjectPattern\bin\Debug\netcoreapp2.1\NullObjectPattern.deps.json
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\NullObjectPattern\bin\Debug\netcoreapp2.1\NullObjectPattern.runtimeconfig.json
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\NullObjectPattern\bin\Debug\netcoreapp2.1\NullObjectPattern.runtimeconfig.dev.json
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\NullObjectPattern\bin\Debug\netcoreapp2.1\NullObjectPattern.dll
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\NullObjectPattern\bin\Debug\netcoreapp2.1\NullObjectPattern.pdb
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\NullObjectPattern\obj\Debug\netcoreapp2.1\NullObjectPattern.csprojAssemblyReference.cache
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\NullObjectPattern\obj\Debug\netcoreapp2.1\NullObjectPattern.csproj.CoreCompileInputs.cache
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\NullObjectPattern\obj\Debug\netcoreapp2.1\NullObjectPattern.AssemblyInfoInputs.cache
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\NullObjectPattern\obj\Debug\netcoreapp2.1\NullObjectPattern.AssemblyInfo.cs
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\NullObjectPattern\obj\Debug\netcoreapp2.1\NullObjectPattern.dll
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\NullObjectPattern\obj\Debug\netcoreapp2.1\NullObjectPattern.pdb
