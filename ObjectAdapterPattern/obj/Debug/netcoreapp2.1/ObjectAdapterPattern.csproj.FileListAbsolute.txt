@@ -1,0 +1,11 @@
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\ObjectAdapterPattern\obj\Debug\netcoreapp2.1\ObjectAdapterPattern.csprojAssemblyReference.cache
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\ObjectAdapterPattern\obj\Debug\netcoreapp2.1\ObjectAdapterPattern.csproj.CoreCompileInputs.cache
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\ObjectAdapterPattern\obj\Debug\netcoreapp2.1\ObjectAdapterPattern.AssemblyInfoInputs.cache
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\ObjectAdapterPattern\obj\Debug\netcoreapp2.1\ObjectAdapterPattern.AssemblyInfo.cs
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\ObjectAdapterPattern\bin\Debug\netcoreapp2.1\ObjectAdapterPattern.deps.json
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\ObjectAdapterPattern\bin\Debug\netcoreapp2.1\ObjectAdapterPattern.runtimeconfig.json
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\ObjectAdapterPattern\bin\Debug\netcoreapp2.1\ObjectAdapterPattern.runtimeconfig.dev.json
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\ObjectAdapterPattern\bin\Debug\netcoreapp2.1\ObjectAdapterPattern.dll
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\ObjectAdapterPattern\bin\Debug\netcoreapp2.1\ObjectAdapterPattern.pdb
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\ObjectAdapterPattern\obj\Debug\netcoreapp2.1\ObjectAdapterPattern.dll
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\ObjectAdapterPattern\obj\Debug\netcoreapp2.1\ObjectAdapterPattern.pdb
