@@ -1,0 +1,11 @@
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\StrategyPattern\bin\Debug\netcoreapp2.1\StrategyPattern.deps.json
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\StrategyPattern\bin\Debug\netcoreapp2.1\StrategyPattern.runtimeconfig.json
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\StrategyPattern\bin\Debug\netcoreapp2.1\StrategyPattern.runtimeconfig.dev.json
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\StrategyPattern\bin\Debug\netcoreapp2.1\StrategyPattern.dll
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\StrategyPattern\bin\Debug\netcoreapp2.1\StrategyPattern.pdb
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\StrategyPattern\obj\Debug\netcoreapp2.1\StrategyPattern.csprojAssemblyReference.cache
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\StrategyPattern\obj\Debug\netcoreapp2.1\StrategyPattern.csproj.CoreCompileInputs.cache
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\StrategyPattern\obj\Debug\netcoreapp2.1\StrategyPattern.AssemblyInfoInputs.cache
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\StrategyPattern\obj\Debug\netcoreapp2.1\StrategyPattern.AssemblyInfo.cs
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\StrategyPattern\obj\Debug\netcoreapp2.1\StrategyPattern.dll
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\StrategyPattern\obj\Debug\netcoreapp2.1\StrategyPattern.pdb
