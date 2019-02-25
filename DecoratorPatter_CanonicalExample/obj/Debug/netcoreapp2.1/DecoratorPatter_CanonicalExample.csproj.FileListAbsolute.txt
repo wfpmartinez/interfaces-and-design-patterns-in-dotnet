@@ -1,0 +1,11 @@
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\DecoratorPatter_CanonicalExample\bin\Debug\netcoreapp2.1\DecoratorPatter_CanonicalExample.deps.json
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\DecoratorPatter_CanonicalExample\bin\Debug\netcoreapp2.1\DecoratorPatter_CanonicalExample.runtimeconfig.json
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\DecoratorPatter_CanonicalExample\bin\Debug\netcoreapp2.1\DecoratorPatter_CanonicalExample.runtimeconfig.dev.json
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\DecoratorPatter_CanonicalExample\bin\Debug\netcoreapp2.1\DecoratorPatter_CanonicalExample.dll
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\DecoratorPatter_CanonicalExample\bin\Debug\netcoreapp2.1\DecoratorPatter_CanonicalExample.pdb
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\DecoratorPatter_CanonicalExample\obj\Debug\netcoreapp2.1\DecoratorPatter_CanonicalExample.csprojAssemblyReference.cache
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\DecoratorPatter_CanonicalExample\obj\Debug\netcoreapp2.1\DecoratorPatter_CanonicalExample.csproj.CoreCompileInputs.cache
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\DecoratorPatter_CanonicalExample\obj\Debug\netcoreapp2.1\DecoratorPatter_CanonicalExample.AssemblyInfoInputs.cache
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\DecoratorPatter_CanonicalExample\obj\Debug\netcoreapp2.1\DecoratorPatter_CanonicalExample.AssemblyInfo.cs
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\DecoratorPatter_CanonicalExample\obj\Debug\netcoreapp2.1\DecoratorPatter_CanonicalExample.dll
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\DecoratorPatter_CanonicalExample\obj\Debug\netcoreapp2.1\DecoratorPatter_CanonicalExample.pdb

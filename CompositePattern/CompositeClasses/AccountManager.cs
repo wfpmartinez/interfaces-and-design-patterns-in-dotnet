@@ -8,5 +8,14 @@ namespace CompositePattern.CompositeClasses
         public AccountManager(string name, string role) : base(name, role)
         {
         }
+
+        public override void GetSubordinates()
+        {
+            base.GetSubordinates();
+            foreach (var pm in this.Subordinates)
+            {
+                pm.GetSubordinates();
+            }
+        }
     }
 }

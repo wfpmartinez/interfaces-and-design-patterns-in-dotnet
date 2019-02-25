@@ -37,11 +37,6 @@ namespace CompositePattern
             accountManager.Subordinates.Add(manager2);
 
             accountManager.GetSubordinates();
-
-            foreach (var pm in accountManager.Subordinates)
-            {
-                pm.GetSubordinates();
-            }
         }
     }
 }

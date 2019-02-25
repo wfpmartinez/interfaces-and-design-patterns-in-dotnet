@@ -16,7 +16,7 @@ namespace CompositePattern.Interfaces.CompositeClasses
             Role = role;
         }
 
-        public void GetSubordinates()
+        public virtual void GetSubordinates()
         {
             Console.WriteLine(string.Format("The Employee {0} with the role {1} has the following subordinates: \n", Name, Role));
             foreach (IEmployee employee in Subordinates)
