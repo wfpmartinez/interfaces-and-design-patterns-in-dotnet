@@ -1,0 +1,11 @@
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\CompositePattern\bin\Debug\netcoreapp2.1\CompositePattern.deps.json
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\CompositePattern\bin\Debug\netcoreapp2.1\CompositePattern.runtimeconfig.json
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\CompositePattern\bin\Debug\netcoreapp2.1\CompositePattern.runtimeconfig.dev.json
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\CompositePattern\bin\Debug\netcoreapp2.1\CompositePattern.dll
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\CompositePattern\bin\Debug\netcoreapp2.1\CompositePattern.pdb
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\CompositePattern\obj\Debug\netcoreapp2.1\CompositePattern.csprojAssemblyReference.cache
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\CompositePattern\obj\Debug\netcoreapp2.1\CompositePattern.csproj.CoreCompileInputs.cache
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\CompositePattern\obj\Debug\netcoreapp2.1\CompositePattern.AssemblyInfoInputs.cache
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\CompositePattern\obj\Debug\netcoreapp2.1\CompositePattern.AssemblyInfo.cs
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\CompositePattern\obj\Debug\netcoreapp2.1\CompositePattern.dll
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\CompositePattern\obj\Debug\netcoreapp2.1\CompositePattern.pdb
