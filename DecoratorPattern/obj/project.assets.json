@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\src\\contributing\\interfaces-and-design-patterns-in-dotnet\\Decorator Pattern\\Decorator Pattern.csproj",
-      "projectName": "Decorator Pattern",
-      "projectPath": "C:\\src\\contributing\\interfaces-and-design-patterns-in-dotnet\\Decorator Pattern\\Decorator Pattern.csproj",
+      "projectUniqueName": "C:\\src\\contributing\\interfaces-and-design-patterns-in-dotnet\\DecoratorPattern\\DecoratorPattern.csproj",
+      "projectName": "DecoratorPattern",
+      "projectPath": "C:\\src\\contributing\\interfaces-and-design-patterns-in-dotnet\\DecoratorPattern\\DecoratorPattern.csproj",
       "packagesPath": "C:\\Users\\luissfletes\\.nuget\\packages\\",
-      "outputPath": "C:\\src\\contributing\\interfaces-and-design-patterns-in-dotnet\\Decorator Pattern\\obj\\",
+      "outputPath": "C:\\src\\contributing\\interfaces-and-design-patterns-in-dotnet\\DecoratorPattern\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

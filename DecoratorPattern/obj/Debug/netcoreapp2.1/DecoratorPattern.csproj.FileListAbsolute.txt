@@ -1,0 +1,11 @@
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\DecoratorPattern\bin\Debug\netcoreapp2.1\DecoratorPattern.deps.json
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\DecoratorPattern\bin\Debug\netcoreapp2.1\DecoratorPattern.runtimeconfig.json
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\DecoratorPattern\bin\Debug\netcoreapp2.1\DecoratorPattern.runtimeconfig.dev.json
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\DecoratorPattern\bin\Debug\netcoreapp2.1\DecoratorPattern.dll
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\DecoratorPattern\bin\Debug\netcoreapp2.1\DecoratorPattern.pdb
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\DecoratorPattern\obj\Debug\netcoreapp2.1\DecoratorPattern.csprojAssemblyReference.cache
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\DecoratorPattern\obj\Debug\netcoreapp2.1\DecoratorPattern.csproj.CoreCompileInputs.cache
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\DecoratorPattern\obj\Debug\netcoreapp2.1\DecoratorPattern.AssemblyInfoInputs.cache
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\DecoratorPattern\obj\Debug\netcoreapp2.1\DecoratorPattern.AssemblyInfo.cs
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\DecoratorPattern\obj\Debug\netcoreapp2.1\DecoratorPattern.dll
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\DecoratorPattern\obj\Debug\netcoreapp2.1\DecoratorPattern.pdb
