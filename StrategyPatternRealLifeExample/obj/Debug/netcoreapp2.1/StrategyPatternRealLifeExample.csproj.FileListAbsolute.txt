@@ -1,0 +1,11 @@
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\StrategyPatternRealLifeExample\bin\Debug\netcoreapp2.1\StrategyPatternRealLifeExample.deps.json
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\StrategyPatternRealLifeExample\bin\Debug\netcoreapp2.1\StrategyPatternRealLifeExample.runtimeconfig.json
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\StrategyPatternRealLifeExample\bin\Debug\netcoreapp2.1\StrategyPatternRealLifeExample.runtimeconfig.dev.json
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\StrategyPatternRealLifeExample\bin\Debug\netcoreapp2.1\StrategyPatternRealLifeExample.dll
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\StrategyPatternRealLifeExample\bin\Debug\netcoreapp2.1\StrategyPatternRealLifeExample.pdb
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\StrategyPatternRealLifeExample\obj\Debug\netcoreapp2.1\StrategyPatternRealLifeExample.csprojAssemblyReference.cache
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\StrategyPatternRealLifeExample\obj\Debug\netcoreapp2.1\StrategyPatternRealLifeExample.csproj.CoreCompileInputs.cache
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\StrategyPatternRealLifeExample\obj\Debug\netcoreapp2.1\StrategyPatternRealLifeExample.AssemblyInfoInputs.cache
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\StrategyPatternRealLifeExample\obj\Debug\netcoreapp2.1\StrategyPatternRealLifeExample.AssemblyInfo.cs
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\StrategyPatternRealLifeExample\obj\Debug\netcoreapp2.1\StrategyPatternRealLifeExample.dll
+C:\src\contributing\interfaces-and-design-patterns-in-dotnet\StrategyPatternRealLifeExample\obj\Debug\netcoreapp2.1\StrategyPatternRealLifeExample.pdb
