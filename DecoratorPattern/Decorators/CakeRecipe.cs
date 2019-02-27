@@ -12,7 +12,8 @@ namespace DecoratorPattern.Decorators
 
         }
 
-        public override void DisplayRecipe() {
+        public override void DisplayRecipe()
+        {
             Console.WriteLine("These are the ingredients for the Vainilla Cake Recipe");
             base.DisplayRecipe();
         }
